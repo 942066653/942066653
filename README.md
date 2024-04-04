@@ -1,3 +1,3 @@
 我是awa
-我的网站：xixicc.cc
-CS2D中文网:www.cs2d.top
+我的网站：https://www.yanchixia.online/
+CatNetWork社区网站：https://catnetwork.cn/
